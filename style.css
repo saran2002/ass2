@@ -1,0 +1,11 @@
+.hello{
+    text-align: center;
+    color: blue;
+    background-color: chartreuse;
+}
+.hello{
+    border-style: solid ;
+}
+h1{
+    font-size: 100px;
+}
